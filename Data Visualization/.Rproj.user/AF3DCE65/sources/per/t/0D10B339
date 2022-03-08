@@ -1,0 +1,26 @@
+{
+    "id": "0D10B339",
+    "path": "E:/Projects/R Projects/Data Cleaning/CrimeAnalysis.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "1333637938",
+    "contents": "",
+    "dirty": false,
+    "created": 1646742796146.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,19",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1645519084,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1645519084,
+    "read_only": false,
+    "read_only_alternatives": []
+}
