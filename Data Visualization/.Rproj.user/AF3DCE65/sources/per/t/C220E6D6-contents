@@ -146,4 +146,10 @@ pie(aggregatedDeaths$Deaths,labels = aggregatedDeaths$Ages,
 legend("bottomleft",aggregatedDeaths$Ages,fill = c("red","blue","black"))
 
 
+pie(aggregatedDeaths$Deaths,labels = aggregatedDeaths$Ages, 
+    main = "Deaths by Age Bracket", col = c("red","blue","black"))
+legend("bottomleft",aggregatedDeaths$Ages,fill = c("red","blue","black"))
+
+
+
 
